@@ -10,7 +10,7 @@ Arbitrage is a trading strategy that capitalizes on price discrepancies between 
 
 The primary goal of the subnet is to maximize these arbitrage opportunities for traders, enabling them to achieve substantial real-world profits, guaranteed by its realistically simulated environment and a robust incentive mechanism. Initially focusing on cryptocurrencies, the subnet plans to extend into traditional financial markets, including forex, options, and commodities, to broaden its utility and reach.
 
-![alt text](diagram-export-8-30-2024-10_32_16-AM.png)
+![alt text]([diagram-export-8-30-2024-10_32_16-AM.png](https://github.com/v0nerd/Final_ArbitrageScanner_Bittensor/blob/main/Assets/diagram-export-8-30-2024-10_32_16-AM.png))
 
 ## Key Features
 ### Offering Best Arbitrage Opportunities
@@ -32,7 +32,7 @@ Validators are required to evaluate miners' performance by simulating their inpu
 - **Data Accumulation**: Recording and accumulating performance data such as timestamp, profit margins, and execution times for validated trades.
 - **Reward Calculation**: Validators assess miner performance based on the profits gained from the arbitrage opportunities.
 
-![alt text](diagram-export-8-30-2024-12_41_56-PM-1-1.png)
+![alt text]([diagram-export-8-30-2024-12_41_56-PM-1-1.png](https://github.com/v0nerd/Final_ArbitrageScanner_Bittensor/blob/main/Assets/diagram-export-8-30-2024-12_41_56-PM-1-1.png))
 
 ### Miner's Role
 Miners are responsible for finding the most profitable arbitrage opportunities and sending them to validators to earn higher incentives. To maximize their potential, miners are encouraged to continually enhance their strategies to identify and exploit the best opportunities effectively.
