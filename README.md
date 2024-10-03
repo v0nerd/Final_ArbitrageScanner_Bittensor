@@ -35,7 +35,7 @@ Validators are required to evaluate miners' performance by simulating their inpu
 ![alt text]([diagram-export-8-30-2024-12_41_56-PM-1-1.png](https://github.com/v0nerd/Final_ArbitrageScanner_Bittensor/blob/main/Assets/diagram-export-8-30-2024-12_41_56-PM-1-1.png))
 
 ### Miner's Role
-Miners are responsible for finding the most profitable arbitrage opportunities and sending them to validators to earn higher incentives. To maximize their potential, miners are encouraged to continually enhance their strategies to identify and exploit the best opportunities effectively.
+Miners are responsible for finding the most profitable arbitrage opportunities and sending them to validators to earn higher incentives. To maximize their potential, miners are encouraged to continually enhance their strategies to identify and exploit the best opportunities effectively. 
 
 - **Data Collection**: Continuously scanning the market for price discrepancies between exchanges.
 - **Opportunity Identification**: Detecting arbitrage opportunities by analyzing price differences while accounting for transaction costs and slippage.
